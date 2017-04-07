@@ -1,0 +1,4 @@
+{
+  "_comment": "Set below attribute to either DEV, STAG or PROD.",
+  "environment": "DEV"
+}
