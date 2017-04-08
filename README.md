@@ -30,20 +30,23 @@ React Native Boilerplate is a starting point for React Native application.
 2. Go to project's root directory, `cd <your project name>`
 3. Remove `.git` folder,  `rm -rf .git`
 4. Open `package.json` and change the `name` property with your project name
-5. Run `react-native upgrade` to update the project name to `android` and `ios` build
-6. Open `src/app/App.js` and replace `'ReactNativeBoilerplate'` by your project name
-7. Run `yarn` to install dependencies
-8. Copy `settings/development.sample.json` to `settings/development.json` and adapt its contents to your needs
-9. Open `environment.json` and set the desired execution environment
-10. Start the packager with `yarn start`
-11. Connect a mobile device to your development machine
-12. Run the test application:
+5. Run `yarn` to install dependencies
+6. Run `react-native upgrade` to update the project name to `android` and `ios` build
+  * Type `y` to each prompt
+8. Run `rm -rf android/app/src/main/java/com/reactnativeboilerplate`
+9. Run `rm -rf ios/ReactNativeBoilerplate`
+10. Open `src/app/App.js` and replace `'ReactNativeBoilerplate'` by your project name
+11. Copy `settings/development.sample.json` to `settings/development.json` and adapt its contents to your needs
+12. Open `environment.json` and set the desired execution environment
+13. Start the packager with `yarn start`
+14. Connect a mobile device to your development machine
+15. Run the test application:
   * On Android:
     * Run `react-native run-android`
   * On iOS:
     * Open `ios/VillageQuebecoisAntan.xcodeproj` in Xcode
     * Hit `Run` after selecting the desired device
-13. Have fun!
+16. Have fun!
 
 ## How To
 
