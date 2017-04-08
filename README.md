@@ -5,7 +5,7 @@ React Native Boilerplate
 [![React Navigation](https://img.shields.io/badge/React%20Navigation-v1.0-blue.svg)](https://reactnavigation.org/)
 [![NativeBase](https://img.shields.io/badge/NativeBase-v2.1-blue.svg)](https://nativebase.io/)
 
-[![CircleCI](https://circleci.com/gh/novom/react-native-boilerplate/tree/master.svg?style=badge)](https://circleci.com/gh/novom/react-native-boilerplate/tree/master)
+[![CircleCI](https://circleci.com/gh/novom/react-native-boilerplate/tree/master.svg?style=shield)](https://circleci.com/gh/novom/react-native-boilerplate/tree/master)
 
 React Native Boilerplate is a starting point for React Native application.
 
