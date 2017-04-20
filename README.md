@@ -1,7 +1,7 @@
 React Native Boilerplate
 =======================
 
-[![React Native](https://img.shields.io/badge/React%20Native-v0.42-blue.svg)](https://facebook.github.io/react-native/)
+[![React Native](https://img.shields.io/badge/React%20Native-v0.43-blue.svg)](https://facebook.github.io/react-native/)
 [![React Navigation](https://img.shields.io/badge/React%20Navigation-v1.0-blue.svg)](https://reactnavigation.org/)
 [![NativeBase](https://img.shields.io/badge/NativeBase-v2.1-blue.svg)](https://nativebase.io/)
 
