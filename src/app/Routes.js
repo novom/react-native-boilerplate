@@ -10,15 +10,19 @@ import Subpage from '../modules/Subpage/Subpage';
 const drawerRoutes = {
   Home: {
     screen: Home,
-    drawer: () => ({
-      label: 'Home',
-    }),
+    navigationOptions: {
+      drawer: {
+        label: 'Home',
+      },
+    },
   },
   About: {
     screen: About,
-    drawer: () => ({
-      label: 'About',
-    }),
+    navigationOptions: {
+      drawer: {
+        label: 'About',
+      },
+    },
   },
 };
 
